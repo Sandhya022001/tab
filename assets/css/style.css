@@ -1,0 +1,16 @@
+
+*{
+	padding:0px;
+	margin:0px;
+	box-sizing:border-box;
+}
+ 
+.tabBody .card{
+	display:none;
+}
+.tabBody .card.active{
+	display:block;
+}
+.card-body{
+	height:400px;
+}
